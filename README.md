@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate Software Engineer and Tech Architect with 8 years of hands-on experience in crafting innovative software solutions. Throughout my journey, I've been deeply involved in both developing and designing robust, scalable software applications that solve real-world problems.
+I'm a passionate Software Engineer and Architect with 8 years of hands-on experience in crafting innovative software solutions. Throughout my journey, I've been deeply involved in both developing and designing robust, scalable software applications that solve real-world problems.
 
 💻 My technical landscape includes an array of technologies and languages, but I thrive in environments that challenge me to learn and grow. My curiosity drives me to explore new technologies and methodologies, always with the goal of enhancing the efficiency and effectiveness of my projects.
 
